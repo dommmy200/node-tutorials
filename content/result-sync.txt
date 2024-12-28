@@ -1,0 +1,4 @@
+Both files are combined:
+
+This is first file.
+This is second file.
